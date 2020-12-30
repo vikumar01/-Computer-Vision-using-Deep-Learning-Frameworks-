@@ -37,3 +37,4 @@ Code to perform this is under CV.ipynb
 | ![Noise Image](GroundTruth.png) | 
 |:--:| 
 | *Ground Truth Image from the Mask Image* |
+..
